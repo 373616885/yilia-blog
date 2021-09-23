@@ -1,8 +1,8 @@
 ---
-title: 升级到Spring 5.3.x之后，使用BeanUtils 导致性能下降，GC次数急剧增加，性能急剧下降
+title: Spring 升级到5.3.x之后，使用BeanUtils 导致性能下降，GC次数急剧增加，性能急剧下降
 ---
 
-Spring 升级到5.3.x之后，使用BeanUtils 导致性能下降，GC次数急剧增加，性能急剧下降
+Spring 升级到5.3.x之后，使用BeanUtils 会导致性能下降，GC次数急剧增加，性能急剧下降
 
 <!--more-->
 
