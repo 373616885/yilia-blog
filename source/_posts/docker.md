@@ -1,8 +1,8 @@
 ---
-title: Windows的安装docker并使用SSH连接
+title: docker安装Ubuntu以及ssh连接
 ---
 
-Windows的安装docker并使用SSH连接
+docker安装Ubuntu以及ssh连接
 
 <!--more-->
 
